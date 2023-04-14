@@ -1,4 +1,4 @@
 # Streamlit
 
-Introduction to Applicaiton Deployment using Streamlit
+Introduction to Application Deployment using Streamlit
 (Programming Assignment from Tools in DS)
